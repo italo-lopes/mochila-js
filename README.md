@@ -4,7 +4,7 @@
 # -> Trabalhando com array 
 # -> Remover e ADD Itens
 # Projeto 
-------O Projeto tem como objetivo trabalhar com Js 
+------O Projeto tem como objetivo trabalhar com Js  <br />
 #FUNCIONAMENTO
 ------ Uma mochila que adiciona e remove item e define a quantidade do item  <br />
 no formulario e salvando os dados no navegador com edição de item, exclusao de item, e adiconado item 
