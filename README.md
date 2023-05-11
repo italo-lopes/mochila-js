@@ -1,5 +1,5 @@
 # Utilizando LocalStorage - armazenamento no navegador
-# -> Criando elemento ->js
+# -> Criando elemento em JS
 # -> Colocar uma tag dentro da outra
 # -> Trabalhando com array 
 # -> Remover e ADD Itens
